@@ -1,14 +1,6 @@
 ### Hi there 👋
-
-
-**I am Ali safwat ali
-
-
-- 🔭 I’m currently working at MEC Academy as an instructor for an intro course and  R&D head Assistant
-- 🌱 I’m currently learning Native Android using Jave and Kotlin 
-- I'm a competitive programmer who solved more than 3000 problems on different online judges and problem setter
-- 📫 How to reach me:
-       mail: alisafwat11@gmail.com
-  
-       phone number: 01069546215
-
+* 👂 My name is Ali safwat Ali
+* 👩 Pronouns: ...
+* 🔭 I’m currently working on native Android with Kotlin
+* 🌱 I’m currently learning flutter 
+* 📫 How to reach me: alisafwat11@gmail.com
