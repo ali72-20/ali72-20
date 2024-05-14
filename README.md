@@ -5,7 +5,7 @@
 * 📫 How to reach me: alisafwat11@gmail.com
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<p align="bottom">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="bash" width="45" height="45"/>          
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="bash" width="45" height="45"/>
