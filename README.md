@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali safwat Ali</h1>
-<h3 align="center">Native android developer</h3>
-
-- 🌱 I’m currently learning **Flutter**
+<h3 align="center">Java developer backend spring-boot| Flutter Developer</h3>
 
 - 💬 Ask me about **problem solving, android**
 
