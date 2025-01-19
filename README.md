@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali safwat Ali</h1>
 <h3 align="center">Java developer backend spring-boot| Flutter Developer</h3>
 
-- 💬 Ask me about **problem solving, android**
+- 💬 Ask me about **problem solving, android, flutter**
 
 - 📫 How to reach me **alisafwat11@gmail.com**
 
